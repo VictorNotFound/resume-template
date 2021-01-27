@@ -10,7 +10,7 @@ sass:
 
 # Resume settings
 resume_avatar:                  "true"
-resume_name:                    "Lisa M. Simpson"
+resume_name:                    "Victor H."
 resume_title:                   "VP of Global Communications"
 
 # used for the contact button in _layouts/resume.html
@@ -39,7 +39,7 @@ resume_section_projects:        true
 resume_section_skills:          true
 resume_section_recognition:     true
 resume_section_links:           true
-resume_section_associations:    false
+# resume_section_associations:    true
 # resume_section_interests:       true
 
 # Resume social links
