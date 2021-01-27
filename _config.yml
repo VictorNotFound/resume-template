@@ -17,11 +17,11 @@ resume_title:                   "Programador Júnior"
 resume_contact_email:           "victorhugodias2001@gmail.com"
 
 # the next two items are used for schema itemprops in _layouts/resume.html
-resume_contact_telephone:       "555-7334"
-resume_contact_address:         "742 Evergreen Terrace, Springfield"
+resume_contact_telephone:       "45 99990-4630"
+resume_contact_address:         "15 Alameda Viena, Foz do Iguaçu"
 
-resume_header_contact_info:     "742 Evergreen Terrace, Springfield • 555-7334 • lisasimpson@youremailaddress.com"
-display_header_contact_info:    "false"
+resume_header_contact_info:     "15 Alameda Viena, Foz do Iguaçu • 45 99990-4630 • victorhugodias2001@gmail.com"
+display_header_contact_info:    "true"
 
 resume_header_intro: "<p>Sou desenvolvedor de software e estudante de Ciência da Computação. Meu objetivo é construir software de qualidade. Como desenvolvedor sou obstinado com o aprendizado, comprometido com o trabalho e sincero.</p>"
 
