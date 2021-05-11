@@ -3,13 +3,13 @@
 
 # Springfield Community Outreach Group
 - project: Desenvolvimento de site wordpress para área de agronegócio
-  role: Cristopher Vidal
+  # role:
   duration: Feito em 2020
   # url: "#"
-  description: Auxílio no desenvolvimento do Site
+  description: Desenvolvimento de um site wordpress com alterações de plugins e integrações via cronjobs
 
 - project: Desenvolvimento de uma plataforma de orações
   role: Victor Hugo
   duration: Feito em 2020
   # url: "#"
-  description: Com o objetivo de reduzir os danos causados pelo Covid foi iniciado um projeto com o objetivo de desenvolver uma plataforma de oração para uma igreja para por em prática o aprendizado obtido em Rails.
+  description: Com o objetivo de reduzir os danos causados pelo Covid iniciei um projeto com o objetivo de desenvolver uma plataforma de oração para igrejas.
